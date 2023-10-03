@@ -1,0 +1,115 @@
+<mxfile host="Electron" modified="2023-10-03T20:36:03.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="kvfy03lN1NXjNNKDmgWw" version="22.0.2" type="device">
+  <diagram name="Page-1" id="D7MXEi1mj_wWHALXOgDf">
+    <mxGraphModel dx="2049" dy="2363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mP_FT1ZaLtLwkFQh0iA8-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-940" width="415" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="mP_FT1ZaLtLwkFQh0iA8-3" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" parent="mP_FT1ZaLtLwkFQh0iA8-2" vertex="1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="mP_FT1ZaLtLwkFQh0iA8-4" value="https://www.light-for-home.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="mP_FT1ZaLtLwkFQh0iA8-2" vertex="1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="mP_FT1ZaLtLwkFQh0iA8-5" value="Вивчення інформації про освітлення" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="mP_FT1ZaLtLwkFQh0iA8-2" vertex="1">
+          <mxGeometry x="110" y="140" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mP_FT1ZaLtLwkFQh0iA8-6" value="Створення плану освітлення" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="mP_FT1ZaLtLwkFQh0iA8-2" vertex="1">
+          <mxGeometry x="110" y="200" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mP_FT1ZaLtLwkFQh0iA8-7" value="Налаштування та керування планом освітлення" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="mP_FT1ZaLtLwkFQh0iA8-2" vertex="1">
+          <mxGeometry x="110" y="260" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-1" value="Купити необхідне обладнання" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="mP_FT1ZaLtLwkFQh0iA8-2">
+          <mxGeometry x="110" y="320" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-2" value="Авторизація / реєстрація&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="mP_FT1ZaLtLwkFQh0iA8-2">
+          <mxGeometry x="120" y="400" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-940" width="415" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-4" value="Page 2" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="fmIodHwlCBJ-gJYyvpas-3">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-5" value="https://www.light-for-home.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="fmIodHwlCBJ-gJYyvpas-3">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-34" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="597" y="-806" width="293" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-35" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 15px; line-height: 19px;&quot;&gt;Оберить тему, яка Вас цікавить&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;labelBackgroundColor=default;fontColor=#000000;fontSize=15;fontStyle=1" vertex="1" parent="fmIodHwlCBJ-gJYyvpas-34">
+          <mxGeometry width="293" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-36" value="A simple primary list group item" style="html=1;fillColor=#B8DCFE;strokeColor=#A1C0DE;fontColor=#004583;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="fmIodHwlCBJ-gJYyvpas-34">
+          <mxGeometry width="293" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-37" value="A simple secondary list group item" style="html=1;fillColor=#D6D8DB;strokeColor=#BBBDC0;fontColor=#383D41;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="fmIodHwlCBJ-gJYyvpas-34">
+          <mxGeometry width="293" height="30" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-38" value="A simple success list group item" style="html=1;fillColor=#C4E6CC;strokeColor=#ABC9B2;fontColor=#ABC9B2;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="fmIodHwlCBJ-gJYyvpas-34">
+          <mxGeometry width="293" height="30" relative="1" as="geometry">
+            <mxPoint y="90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-39" value="A simple danger list group item" style="html=1;fillColor=#F4C5CB;strokeColor=#D5ACB2;fontColor=#711623;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="fmIodHwlCBJ-gJYyvpas-34">
+          <mxGeometry width="293" height="30" relative="1" as="geometry">
+            <mxPoint y="120" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-40" value="A simple warning list group item" style="html=1;fillColor=#FFECBC;strokeColor=#DFCEA4;fontColor=#856110;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="fmIodHwlCBJ-gJYyvpas-34">
+          <mxGeometry width="293" height="30" relative="1" as="geometry">
+            <mxPoint y="150" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-41" value="A simple info list group item" style="html=1;fillColor=#BFE6EB;strokeColor=#A7C9CE;fontColor=#0E5560;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="fmIodHwlCBJ-gJYyvpas-34">
+          <mxGeometry width="293" height="30" relative="1" as="geometry">
+            <mxPoint y="180" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-42" value="A simple light list group item" style="html=1;fillColor=#FDFDFE;strokeColor=#DDDDDE;fontColor=#818182;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="fmIodHwlCBJ-gJYyvpas-34">
+          <mxGeometry width="293" height="30" relative="1" as="geometry">
+            <mxPoint y="210" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-43" value="A simple dark list group item" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;fillColor=#C6C8CA;strokeColor=#ADAFB1;fontColor=#1B1E21;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="fmIodHwlCBJ-gJYyvpas-34">
+          <mxGeometry y="1" width="293" height="30" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mP_FT1ZaLtLwkFQh0iA8-5" target="fmIodHwlCBJ-gJYyvpas-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-45" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="1033" y="-940" width="415" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-46" value="Page 3" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="fmIodHwlCBJ-gJYyvpas-45">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-47" value="https://www.light-for-home.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="fmIodHwlCBJ-gJYyvpas-45">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-48" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Текстова інформація&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;spacingBottom=50;fontSize=14;" vertex="1" parent="fmIodHwlCBJ-gJYyvpas-45">
+          <mxGeometry x="50" y="110" width="320" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-49" value="Графічна та відео інформація" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="fmIodHwlCBJ-gJYyvpas-48">
+          <mxGeometry width="320" height="180" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-50" value="Корисні посилання" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#0085FC;strokeColor=none;fontColor=#ffffff;resizeWidth=1;fontSize=14;" vertex="1" parent="fmIodHwlCBJ-gJYyvpas-48">
+          <mxGeometry y="1" width="153.59999999999997" height="40" relative="1" as="geometry">
+            <mxPoint x="20" y="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmIodHwlCBJ-gJYyvpas-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.489;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fmIodHwlCBJ-gJYyvpas-3" target="fmIodHwlCBJ-gJYyvpas-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
