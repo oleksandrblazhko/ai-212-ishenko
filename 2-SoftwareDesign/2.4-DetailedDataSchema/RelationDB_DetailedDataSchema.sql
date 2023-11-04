@@ -2,7 +2,7 @@ CREATE TABLE users(
 	id INT PRIMARY KEY,
 	name VARCHAR(30) NOT NULL,
 	email VARCHAR(255) NOT NULL CHECK (email ~ '^([a-z0-9][a-z0-9._-]*@[a-z][a-z0-9._-]*\.[a-z]{2,4})$'),
-	password VARCHAR(20) NOT NULL
+	password VARCHAR(20) NOT NULL CHECK (password ~ '^([a-z0-9]*)$')
 );
 
 CREATE TABLE info_topics(
