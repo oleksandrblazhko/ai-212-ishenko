@@ -1,4 +1,5 @@
 @startuml
+!theme cyborg
 
 title UML-UseCase
 left to right direction
@@ -12,5 +13,4 @@ rectangle LightForHome {
    :User: -- (Buy the necessary equipment)
    (Buy the necessary equipment) .> (Pay for the order) : include
 }
-
 @enduml
