@@ -1,0 +1,40 @@
+@startuml
+
+title Data Model
+left to right direction
+hide circle
+
+entity "User" as t01 {
+    (PK) userID
+    --
+    name
+    email
+    pwd
+}
+
+entity "TamplateLightPlan" as t02 {
+    (PK) shablonID
+    --
+    name
+    needs
+    (FK) paramID
+    workPlan
+    description
+}
+
+entity "LightPlan" as t03 {
+    (PK) planID
+    --
+    name
+    needs
+    (FK) paramID
+    workPlan
+    (FK) userID
+    (FK) shablonID
+    (FK) infoID
+}
+
+t01 --{ t03
+t02 --{ t03 
+
+@enduml
